@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.exe
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.deps.json
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.runtimeconfig.json
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.runtimeconfig.dev.json
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.dll
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\bin\Debug\netcoreapp3.1\ProjectForPlutonium-239.pdb
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.AssemblyInfo.cs
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.dll
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.pdb
+C:\Users\user\Documents\Code Academy\ProjectForPlutonium-239\ProjectForPlutonium-239\obj\Debug\netcoreapp3.1\ProjectForPlutonium-239.genruntimeconfig.cache
